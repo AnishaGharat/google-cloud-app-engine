@@ -28,8 +28,6 @@ The application uses the following resources on Google Cloud Platform:
 
 `gcloud source repos create [REPOSITORY_NAME]`
 
-### Create a Cloud Build Trigger to automate deployment on every build (Through the console)
-
 ### Clone the cloud repository on your local
 
 `gcloud source repos clone [REPOSITORY_NAME] --project [PROJECT_ID]`
